@@ -1,0 +1,26 @@
+body {
+    background-color: #8D9DAE;
+    font-family: 'Rozha One' , serif;
+    font-size: 18px;
+    text-align: center;
+}
+ul {
+    padding: 10px;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+header{
+    text-align: center;
+    background: url(images/marble.jpg);
+    background-size: cover;
+    padding: 20px 0px 0px 0px
+}
+p {
+    padding: 20px 0px 0px 0px;
+}
+div {
+    -webkit-transform: rotate(7deg);
+    transform: rotate(180deg);
+}
