@@ -20,7 +20,3 @@ header{
 p {
     padding: 20px 0px 0px 0px;
 }
-div {
-    -webkit-transform: rotate(7deg);
-    transform: rotate(180deg);
-}
